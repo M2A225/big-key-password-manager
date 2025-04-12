@@ -1,6 +1,6 @@
 # Big Key - Gestionnaire de Mots de Passe Simple
 
-![Icône (optionnel)]() Big Key est une application de bureau simple pour gérer vos mots de passe de manière sécurisée. Elle utilise le chiffrement pour protéger vos données sensibles stockées localement.
+Big Key est une application de bureau simple pour gérer vos mots de passe de manière sécurisée. Elle utilise le chiffrement pour protéger vos données sensibles stockées localement.
 
 ## Fonctionnalités
 
@@ -67,10 +67,7 @@ Si vous souhaitez créer un fichier exécutable autonome pour Windows :
 3.  Utilisez les boutons pour ajouter, rechercher, ou copier des informations d'identification.
 4.  Les données sont sauvegardées (probablement dans un fichier `.json` ou `.txt` chiffré) lorsque vous ajoutez/modifiez des entrées ou fermez l'application.
 
-## Licence
-
-(Optionnel) Précisez la licence de votre projet ici (par exemple, MIT, GPL, etc.). Si vous n'en avez pas choisi, vous pouvez omettre cette section ou indiquer "Tous droits réservés".
 
 ---
 
-*Développé par [Votre Nom/Pseudo]*
+*Développé par [appolinaire motche]*
