@@ -1,0 +1,36 @@
+# Environnement virtuel Python
+env/
+venv/
+*/env/
+*/venv/
+.env
+.venv
+ENV/
+VENV/
+
+# Dossiers et fichiers de build PyInstaller
+build/
+dist/
+*.spec
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers IDE (optionnel, adaptez selon votre éditeur)
+.vscode/
+.idea/
+*.swp
+
+# Fichiers OS
+.DS_Store
+Thumbs.db
+
+# Fichiers de données utilisateur (IMPORTANT - si votre gestionnaire crée un fichier local)
+# Adaptez le nom si votre fichier de mots de passe s'appelle autrement
+# Il est préférable de ne pas mettre le fichier de données sur GitHub, même chiffré.
+pm_salt.bin # Fichier de sel pour le chiffrement
+passwords.enc # Fichier de mots de passe chiffré
+# Fichiers de sauvegarde (optionnel)
+*.key # Si vous stockez la clé séparément (NE PAS FAIRE EN PRODUCTION REELLE)
